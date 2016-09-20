@@ -4,18 +4,26 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+# changed description at line 13 from "Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description."
+# to
+#"Hi I am Sherif; I am a dayenjoyer; An enthusiastic creative blogger who covers entrepreneurs, start ups, influencers, food, love, places, music, festivals, fairs, arts and more.
+# Currently living in London and meeting with various people with an edge to helping them upscale their businesses.
+# If you are looking to promote your start-up, company or your brand, please drop me a line and I will be happy to write about it.
+
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: dayenjoyer
+email: dayenjoyer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi I am Sherif; I am a dayenjoyer; An enthusiastic creative blogger who covers entrepreneurs, start ups, influencers, food, love, places, music, festivals, fairs, arts and more.
+Currently living in London and meeting with various people with an edge to helping them upscale their businesses.
+If you are looking to promote your start-up, company or your brand, please drop me a line and I will be happy to write about it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: dayenjoyer
+github_username:  dayenjoyer
 
 # Build settings
 markdown: kramdown
